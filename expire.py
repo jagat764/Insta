@@ -4,7 +4,7 @@ import webbrowser
 import sys
 import time
 from datetime import datetime
-CSV_URL = "https://raw.githubusercontent.com/jaikshaikh/Vortexcodes/refs/heads/main/expiry_list.csv"
+CSV_URL = "https://raw.githubusercontent.com/jagat764/Insta/refs/heads/main/expiry_list.csv"
 USER_ID = str(ID)  # Replace ID with actual variable or input
 def live_text(text, delay=0.05):
     """Prints text character by character with a delay for a typing effect."""
